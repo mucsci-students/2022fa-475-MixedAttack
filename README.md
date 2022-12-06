@@ -8,7 +8,7 @@
 - The health and shield card increase max health which is why it looks like you lose hp/shield in the bar, but it's just increasing the max amount it can be.
 - There are 4 buttons inside of the game that you can interact with, once all 4 are activated the console inside of the big gray building you spawn next to will be activated
 - There are letters next to the button, those letters are a password to the console you will have to figure out the correct order of the letters.
-- Once entered you can escape using the console after surving for 5 minutes.
+- Once entered you can escape using the console after surviving for 5 minutes.
 
 ## Controls
 - Moving: WASD
