@@ -3,6 +3,7 @@
 ## Developed by Devon Fair, Austin An, Noah Barger
 
 ## Tips
+- Please go into options and adjust the volume there is sound it might turned up a bit too loud.
 - Monsters drop either a soda bottle or an ice cream cone, the soda bottle will replenish health, the ice cream cone will replenish your shield
 - The health and shield card increase max health which is why it looks like you lose hp/shield in the bar, but it's just increasing the max amount it can be.
 - There are 4 buttons inside of the game that you can interact with, once all 4 are activated the console inside of the big gray building you spawn next to will be activated
