@@ -18,6 +18,8 @@
 - Shift: Run
 - E: Interact
 - 1,2,3: Switch between guns.
+- Escape: Pauses game, opens option menu
+- Controls can also be seen inside of the options menu. 
 
 
 
